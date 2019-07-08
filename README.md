@@ -10,6 +10,6 @@ Coming soon...
   author={Mao, Rui and Lin, Chenghua and Guerin, Frank},
   booktitle={Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics},
   year={2019},
-  volume={1}}
+  volume={1}
 }
 ```
