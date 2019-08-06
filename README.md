@@ -11,13 +11,12 @@ Please email r03rm16@abdn.ac.uk for ELMo embeddings, putting them into elmo fold
 (The used dataset and ELMo embeddings were cleaned and pre-trained by https://github.com/gao-g/metaphor-in-context. Our code is also based on this project.)
 
 ## Environment
-```
-pip install -r requirements.txt
-```
 python 3.6
 
 pytorch 0.4.1
-
+```
+pip install -r requirements.txt
+```
 ## Run
 Go to the model folder (rnn_hg or rnn_mhca), then run
 
