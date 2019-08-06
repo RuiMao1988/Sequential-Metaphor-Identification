@@ -14,7 +14,25 @@ Please email r03rm16@abdn.ac.uk for ELMo embeddings, putting them into elmo fold
 ```
 pip install -r requirements.txt
 ```
+python 3.6
 
+pytorch 0.4.1
+
+## Run
+Go to the model folder (rnn_hg or rnn_mhca), then run
+
+VU Amsterdan dataset
+```
+python main_vua.py
+```
+Mohammad dataset
+```
+python main_mohx.py
+```
+TroFi dataset
+```
+python main_trofi.py
+```
 ## Citation
 ```
 @inproceedings{mao2019metaphor,
