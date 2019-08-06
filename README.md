@@ -18,17 +18,17 @@ pytorch 0.4.1
 pip install -r requirements.txt
 ```
 ## Run
-Go to the model folder (rnn_hg or rnn_mhca), then run
+Go to the model folder (rnn_hg or rnn_mhca), then run for
 
-VU Amsterdan dataset
+1. VU Amsterdam Metaphor Corpus (VUA ALL POS and VUA VERB in the paper)
 ```
 python main_vua.py
 ```
-Mohammad dataset
+2. Mohammad dataset
 ```
 python main_mohx.py
 ```
-TroFi dataset
+3. TroFi dataset
 ```
 python main_trofi.py
 ```
