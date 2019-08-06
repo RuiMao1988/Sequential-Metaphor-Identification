@@ -8,7 +8,7 @@ Download glove.840B.300d.zip (https://nlp.stanford.edu/projects/glove/) into glo
 
 Please email r03rm16@abdn.ac.uk for ELMo embeddings, putting them into elmo folder.
 
-(The used dataset and ELMo embeddings were cleaned and pre-trained by https://github.com/gao-g/metaphor-in-context)
+(The used dataset and ELMo embeddings were cleaned and pre-trained by https://github.com/gao-g/metaphor-in-context. Our code is also based on this project.)
 
 ## Environment
 ```
