@@ -6,7 +6,7 @@ https://www.aclweb.org/anthology/papers/P/P19/P19-1378/
 ## Embeddings
 Download glove.840B.300d.zip (https://nlp.stanford.edu/projects/glove/) into glove folder.
 
-Please email r03rm16@abdn.ac.uk for ELMo embeddings, putting them into elmo folder.
+Please email terry_mao0513@hotmail.com for ELMo embeddings, putting them into elmo folder.
 
 (The used dataset and ELMo embeddings were cleaned and pre-trained by https://github.com/gao-g/metaphor-in-context.)
 
